@@ -32,6 +32,8 @@ public class BaseTest {
 		 */
 		// Indian Architect
 		
+		//USA Architect
+		
 		
 		//Read PROPERTIES file
 		Properties prop = new Properties();
